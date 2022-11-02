@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:list_tarefas_aplicattion/models/todoModel.dart';
-import 'package:list_tarefas_aplicattion/repository/todo_repository.dart';
+import 'package:list_tarefas_aplicattion/repositories/todo_repository.dart';
 import 'package:list_tarefas_aplicattion/widgets/todoItem.dart';
 
 class ToDoListPage extends StatefulWidget {
